@@ -17,7 +17,11 @@ EXTRA FEATURES
 3. Searching a specific doctor
  
 How to Run
+
  npm install for installation
+
  npm start to start the web application
+
  Run seed script to populate the database with node seed.js
+
  npm start to start the server [the server will be running at localhost:3000]
